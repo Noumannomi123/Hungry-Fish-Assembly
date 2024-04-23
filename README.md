@@ -29,3 +29,16 @@ To quit the game:
 - Press `ESC` and then type `y`. The game will immediately.
 
 ## Screenshots
+
+### Login by Name
+![](Screenshots/1.png)
+
+### Home Page
+![](Screenshots/2.png)
+
+### In game shots
+![](Screenshots/3.png)
+![](Screenshots/4.png)
+
+### Quit
+![](Screenshots/5.png)
