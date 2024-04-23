@@ -16,7 +16,10 @@ Note: If the `game.com` was not found, assemble properly and also be sure to che
 ## How to play the game
 - Initially, you will have to type the name and press `Enter` to enter the game.
 - Press `Enter` again on the home page after some wait.
-
+- The player is a fish indicated by right (>) angled bracked.
+- The player can collect coins indicated by `green` and `red` flashing boxes.
+- Red coin holds 50 score and ends sooner than green coin with 10 score.
+  
 ## Controls
 
 Movements:
